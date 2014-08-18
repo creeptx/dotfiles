@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/r3mix/.fvwm/menus'
+let g:netrw_dirhist_2='/home/r3mix/.fvwm/menus/content'
+let g:netrw_dirhist_3='/home/r3mix/.fvwm/menus/content/default'
+let g:netrw_dirhist_4='/home/r3mix/local/git/dotfiles/.git'
